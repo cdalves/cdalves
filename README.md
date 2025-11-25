@@ -77,10 +77,10 @@ Fev/2019 ➜ Jun/2024
 ## ⭐ GitHub Stats
 
 ### 📊 Atividades
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cdalves&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdalves&layout=compact&theme=tokyonight" />
-</p>
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=cdalves&show_icons=true&theme=tokyonight)
+
+[![Carlos Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=cdalves)](https://github.com/cdalves/github-readme-stats)
+
 
 ### 🔥 Streak
 <p align="center">
