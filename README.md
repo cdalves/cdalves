@@ -9,9 +9,9 @@
 
 ## 🚀 Sobre mim
 
-Sou Engenheiro da Computação com mais de **1 ano de experiência como desenvolvedor fullstack**, atuando no desenvolvimento de sistemas, integrações e soluções de infraestrutura.
+Sou Engenheiro da Computação, atuando no desenvolvimento de sistemas, integrações e soluções de infraestrutura.
 
-Trabalho com **NestJS, Angular, Java e MySQL**, sempre focado em **código limpo, boas práticas (SOLID) e qualidade**.
+Trabalho com NestJS, Angular, Java e MySQL, sempre focado em código limpo, boas práticas (SOLID) e qualidade.
 
 Estou sempre aprendendo e buscando evoluir, contribuindo para projetos que fazem diferença.
 
@@ -28,6 +28,14 @@ Estou sempre aprendendo e buscando evoluir, contribuindo para projetos que fazem
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </p>
+
+---
+
+## ✨ Soft Skills
+- Comunicação clara e empática  
+- Trabalho em equipe  
+- Resolução de problemas  
+- Adaptabilidade e aprendizado contínuo
 
 ---
 
