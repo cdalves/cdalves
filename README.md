@@ -103,13 +103,3 @@ Fev/2019 ➜ Jun/2024
 
 ---
 
-## 💬 Obrigado por visitar meu perfil!
-
-Se quiser, posso melhorar ainda mais seu README, adicionando:
-✅ Projetos destacados  
-✅ Badges animados  
-✅ Seção “Tech Stack em cards”  
-✅ Variações dark/light  
-✅ Versão profissional em inglês  
-
-É só pedir! 🚀```
