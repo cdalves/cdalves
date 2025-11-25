@@ -17,93 +17,31 @@ Estou sempre aprendendo e buscando evoluir, contribuindo para projetos que fazem
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Tecnologias que eu uso no dia a dia
 
-### **Frontend**
-<p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<p align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-</p>
-
-### **Backend**
-<p>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img height="40" src="https://nestjs.com/img/logo-small.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-</p>
-
-### **Banco de Dados**
-<p>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </p>
 
-### **Ferramentas & Metodologias**
-<p>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+---
+
+## 🌐 Redes e Contato
+
+<p align="left">
+ 
+  <a href="mailto:cdanielalves.ibce@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/carlos-daniel-alves-dos-santos-2a09251b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
-
-## 💼 Experiência
-
-### **🔧 Analista de TI – Infraestrutura e Suporte**  
-**Faculdade Independente do Nordeste (2024 - Atual)**  
-- Desenvolvimento e manutenção de sistema de controle de acesso com catracas  
-- Gestão de plataforma com mais de **3 mil usuários ativos**  
-- Implementação de melhorias com **NestJS e Angular**  
-- Suporte técnico e resolução de incidentes  
-
-### **🔧 Estagiário de TI**  
-**Faculdade Independente do Nordeste (2023 - 2023)**  
-- Projeto e montagem de bancada didática  
-- Gerenciamento de laboratórios de informática  
-- Suporte técnico aos usuários  
-
----
-
-## 🎓 Formação
-
-**Bacharelado em Engenharia da Computação**  
-Faculdade Independente do Nordeste — FAINOR  
-Fev/2019 ➜ Jun/2024  
-
----
-
-## 📊 GitHub Stats
-
-### ⭐ Estatísticas Gerais
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cdalves&theme=tokyonight)
-
----
-
-## 🌐 Links
-
-- 🌎 **GitHub:** https://github.com/cdalves  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/carlos-daniel-alves-dos-santos-2a09251b7  
-- 📧 **Email:** cdanielalves.ibce@gmail.com  
-
----
-
-## ✨ Soft Skills
-- Comunicação clara e empática  
-- Trabalho em equipe  
-- Resolução de problemas  
-- Adaptabilidade e aprendizado contínuo  
-
----
-
-## 🙌 Obrigado por visitar meu perfil!
-
-Se quiser que eu:  
-✔ coloque uma seção de projetos destacados  
-✔ gere badges animados  
-✔ crie uma versão em inglês  
-✔ adicione GIFs e animações  
-✔ ou gere isso como componente React  
-Só pedir! 🚀
