@@ -90,9 +90,8 @@ Fev/2019 ➜ Jun/2024
 
 ## 🌐 Links
 
-- 🌎 **Portfólio/GitHub:** https://github.com/cdalves  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/carlos-daniel-alves-dos-santos-2a09251b7  
-- 📧 **Email:** cdanielalves.ibce@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/carlos-daniel-alves-dos-santos
+
 
 ---
 
