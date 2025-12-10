@@ -42,10 +42,6 @@ Estou sempre aprendendo e buscando evoluir, contribuindo para projetos que fazem
 ## 🌐 Redes e Contato
 
 <p align="left">
- 
-  <a href="mailto:cdanielalves.ibce@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
   <a href="https://www.linkedin.com/in/carlosdanielalvessantos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
